@@ -44,7 +44,7 @@ uvx mcp-security-audit
 From source:
 
 ```bash
-git clone https://github.com/dangottwald/mcp-security-audit.git
+git clone https://github.com/danfreddy/mcp-security-audit.git
 cd mcp-security-audit
 pip install -e .
 ```
